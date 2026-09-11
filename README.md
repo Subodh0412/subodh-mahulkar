@@ -1,2 +1,2 @@
 # subodh-mahulkar
-\n my name is Subodh Mahulkar
+my name is Subodh Mahulkar
